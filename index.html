@@ -3,6 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1KPLDWY1GZ"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-1KPLDWY1GZ');
+</script>
 <title>滋賀のチャットレディ求人｜近江八幡で高収入｜未経験OK・在宅可｜ホィップラテ</title>
 <meta name="description" content="滋賀県・近江八幡のチャットレディ求人ならホィップラテ近江八幡店。未経験OK、完全在宅OK。会わない・飲まない安心安全な環境で働けます。女性マネージャーが丁寧にサポート。日払い・週払い対応、ノルマなし。大津・草津・彦根など滋賀全域から応募歓迎。">
 <meta name="keywords" content="滋賀 チャットレディ,近江八幡 チャットレディ,滋賀 高収入 女性,滋賀 在宅ワーク 女性,チャットレディ 未経験 滋賀,滋賀 副業 女性,近江八幡 高収入,チャットレディ 求人 滋賀,大津 チャットレディ,草津 チャットレディ">
@@ -835,6 +843,18 @@ footer a{color:var(--pink-light);text-decoration:none;}
     }
     lastY = y;
   }, {passive:true});
+
+  // GA4: LINEボタンのクリック計測
+  document.querySelectorAll('a[href*="line.me"]').forEach((a, i) => {
+    a.addEventListener('click', () => {
+      if (typeof gtag === 'function') {
+        gtag('event', 'line_click', {
+          button_index: i + 1,
+          button_text: (a.textContent || '').trim().replace(/\s+/g, ' ').slice(0, 40)
+        });
+      }
+    });
+  });
 </script>
 </body>
 </html>
