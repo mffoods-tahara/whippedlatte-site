@@ -1,9 +1,8 @@
 name: Instagram Reel Post
 
 on:
-  # 定期実行はサンプル確認・ユーザー承認後に有効化する（下2行のコメントを外す）
-  # schedule:
-  #   - cron: "0 1 * * 2,5"  # 01:00 UTC = 10:00 JST 火・金
+  schedule:
+    - cron: "0 1 * * 2,5"  # 01:00 UTC = 10:00 JST 火・金（2026-07-16ユーザー承認済み）
   workflow_dispatch:
     inputs:
       dry_run:
