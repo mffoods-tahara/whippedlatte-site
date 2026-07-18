@@ -52,7 +52,7 @@ jobs:
       - name: Commit post log
         if: ${{ github.event_name == 'schedule' || inputs.dry_run == false }}
         run: |
-          git pull --rebase
           git add automation/instagram/post_log.txt
           git diff --cached --quiet || git commit -m "リール自動投稿: ログ更新"
+          git pull --rebase
           git push
