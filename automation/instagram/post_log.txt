@@ -11,3 +11,4 @@
 2026-07-21 04:21:56,525 INFO リール投稿成功 (video=reel_20260721_0420.mp4, caption#2, media_id=18020390165883175)
 2026-07-21 07:32:32,416 INFO 投稿成功 (image=cover_sp.jpg, caption#2, media_id=18115528342909383)
 2026-07-22 07:33:41,545 INFO 投稿成功 (image=mascot.png, caption#3, media_id=18109287731007627)
+2026-07-23 07:32:36,291 INFO 投稿成功 (image=line_qr.jpeg, caption#4, media_id=18134298001611802)
