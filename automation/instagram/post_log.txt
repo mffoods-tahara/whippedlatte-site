@@ -13,3 +13,4 @@
 2026-07-22 07:33:41,545 INFO 投稿成功 (image=mascot.png, caption#3, media_id=18109287731007627)
 2026-07-23 07:32:36,291 INFO 投稿成功 (image=line_qr.jpeg, caption#4, media_id=18134298001611802)
 2026-07-24 04:22:53,892 INFO リール投稿成功 (video=reel_20260724_0421.mp4, caption#0, media_id=17927270601368266)
+2026-07-24 07:30:24,259 INFO 投稿成功 (image=AdobeStock_1097365284.jpeg, caption#5, media_id=17958996807181270)
