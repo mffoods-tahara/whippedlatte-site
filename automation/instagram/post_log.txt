@@ -27,3 +27,4 @@
 2026-08-02 07:31:06,002 INFO 投稿成功 (image=lifestyle_gu.jpg, caption#2, media_id=18111205387954738)
 2026-08-03 08:23:13,081 INFO 投稿成功 (image=lifestyle_ka.jpg, caption#3, media_id=17940221931323887)
 2026-08-03 08:27:53,651 INFO 投稿成功 (image=lifestyle_pa.jpg, caption#4, media_id=18120084199872598)
+2026-08-04 04:19:58,715 INFO リール投稿成功 (video=reel_20260804_0418.mp4, caption#0, media_id=18002314961968077)
