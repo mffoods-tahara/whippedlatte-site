@@ -41,3 +41,4 @@
 2026-08-12 06:13:36,400 INFO 投稿成功 (image=ad_4916.jpeg, caption#1, media_id=18406218829085046)
 2026-08-13 06:15:55,984 INFO 投稿成功 (image=ad_4917.jpeg, caption#2, media_id=17916922074220958)
 2026-08-14 03:28:30,160 INFO リール投稿成功 (video=reel_20260814_0326.mp4, caption#0, media_id=18111034213803873)
+2026-08-14 06:12:46,017 INFO 投稿成功 (image=ad_4918.jpeg, caption#3, media_id=17996286677806985)
