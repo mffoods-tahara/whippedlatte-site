@@ -63,3 +63,4 @@
 2026-08-29 11:29:11,131 INFO 投稿成功 (image=AdobeStock_234554379.jpeg, caption#0, media_id=18091433123279025)
 2026-08-30 10:16:46,732 INFO 投稿成功 (image=AdobeStock_273071318.jpeg, caption#1, media_id=17900044329588606)
 2026-08-31 11:22:11,256 INFO 投稿成功 (image=AdobeStock_314169072.jpeg, caption#2, media_id=18463790128189110)
+2026-09-01 06:12:49,268 INFO リール投稿成功 (video=reel_20260901_0610.mp4, caption#2, media_id=18112524326019842)
