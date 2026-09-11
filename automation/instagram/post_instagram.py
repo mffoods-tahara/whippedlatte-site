@@ -98,9 +98,11 @@ def main():
         print(f"[{datetime.now()}] 投稿成功: {IMAGES[image_index]}")
     except requests.HTTPError as e:
         logging.error("投稿失敗 (image=%s): %s / %s", IMAGES[image_index], e, e.response.text)
+        print(f"投稿失敗 (image={IMAGES[image_index]}): {e}\nレスポンス本文: {e.response.text}")
         raise
     except Exception as e:
         logging.error("投稿失敗 (image=%s): %s", IMAGES[image_index], e)
+        print(f"投稿失敗 (image={IMAGES[image_index]}): {e}")
         raise
 
 
