@@ -81,3 +81,4 @@
 2026-09-13 10:00:51,173 INFO 投稿成功 (image=interior_ji.jpg, caption#2, media_id=18087158327669405)
 2026-09-14 10:20:24,384 INFO 投稿成功 (image=interior_3614.jpg, caption#3, media_id=18117366244986605)
 2026-09-15 06:01:53,088 INFO リール投稿成功 (video=reel_20260915_0600.mp4, caption#0, media_id=18015154697938968)
+2026-09-15 09:47:20,371 INFO 投稿成功 (image=deco_lips.jpeg, caption#4, media_id=18409907020081581)
