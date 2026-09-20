@@ -87,3 +87,4 @@
 2026-09-18 05:47:01,736 INFO リール投稿成功 (video=reel_20260918_0544.mp4, caption#1, media_id=18142366765605022)
 2026-09-18 09:24:02,985 INFO 投稿成功 (image=ad_4916.jpeg, caption#1, media_id=18631546111043133)
 2026-09-19 09:12:01,598 INFO 投稿成功 (image=ad_4917.jpeg, caption#2, media_id=18457630546184285)
+2026-09-20 09:36:45,848 INFO 投稿成功 (image=ad_4918.jpeg, caption#3, media_id=18005519000785566)
