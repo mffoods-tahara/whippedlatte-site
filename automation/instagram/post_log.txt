@@ -115,3 +115,4 @@
 2026-10-09 11:39:55,898 INFO 投稿成功 (image=AdobeStock_415349206.jpeg, caption#4, media_id=18115766273326714)
 2026-10-10 10:57:24,491 INFO 投稿成功 (image=AdobeStock_475787253.jpeg, caption#5, media_id=18631145092025957)
 2026-10-11 11:14:27,630 INFO 投稿成功 (image=AdobeStock_486437070.jpeg, caption#0, media_id=17925100422202381)
+2026-10-12 12:46:46,228 INFO 投稿成功 (image=lifestyle_io.jpg, caption#1, media_id=18004989369005382)
