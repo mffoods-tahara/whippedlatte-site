@@ -119,3 +119,4 @@
 2026-10-13 07:36:27,600 INFO リール投稿成功 (video=reel_20261013_0734.mp4, caption#2, media_id=18088055564276481)
 2026-10-13 12:28:18,479 INFO 投稿成功 (image=lifestyle_gu.jpg, caption#2, media_id=18004837013793215)
 2026-10-14 09:56:07,154 INFO 投稿成功 (image=lifestyle_ka.jpg, caption#3, media_id=18133390606756704)
+2026-10-15 09:37:48,611 INFO 投稿成功 (image=lifestyle_pa.jpg, caption#4, media_id=18205926106329631)
