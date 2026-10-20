@@ -125,3 +125,4 @@
 2026-10-17 09:01:22,984 INFO 投稿成功 (image=lifestyle_dl2.png, caption#0, media_id=18122657788849161)
 2026-10-18 09:20:20,283 INFO 投稿成功 (image=lifestyle_lips.jpeg, caption#1, media_id=17992914300024113)
 2026-10-19 10:31:43,008 INFO 投稿成功 (image=interior_ji.jpg, caption#2, media_id=18097673078390237)
+2026-10-20 05:51:26,128 INFO リール投稿成功 (video=reel_20261020_0549.mp4, caption#1, media_id=17907357132573076)
