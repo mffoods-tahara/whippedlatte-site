@@ -129,3 +129,4 @@
 2026-10-20 09:49:01,586 INFO 投稿成功 (image=interior_3614.jpg, caption#3, media_id=17890332951684469)
 2026-10-21 09:50:18,930 INFO 投稿成功 (image=deco_lips.jpeg, caption#4, media_id=18115708775031854)
 2026-10-22 09:51:07,886 INFO 投稿成功 (image=portrait_hat.jpeg, caption#5, media_id=18107540483524200)
+2026-10-23 05:55:17,102 INFO リール投稿成功 (video=reel_20261023_0553.mp4, caption#2, media_id=18104394104338335)
