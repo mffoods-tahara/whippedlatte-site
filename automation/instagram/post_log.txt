@@ -132,3 +132,4 @@
 2026-10-23 05:55:17,102 INFO リール投稿成功 (video=reel_20261023_0553.mp4, caption#2, media_id=18104394104338335)
 2026-10-23 09:45:16,405 INFO 投稿成功 (image=ad_4915.jpeg, caption#0, media_id=17882616912535450)
 2026-10-24 09:18:36,520 INFO 投稿成功 (image=ad_4916.jpeg, caption#1, media_id=18140247436622177)
+2026-10-25 09:35:30,564 INFO 投稿成功 (image=ad_4917.jpeg, caption#2, media_id=18644072287023248)
